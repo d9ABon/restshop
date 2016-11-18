@@ -4,3 +4,8 @@ gunicorn==19.6.0
 psycopg2==2.6.2
 whitenoise==3.2
 python-dotenv==0.6.1
+
+MySQL-python==1.2.5
+
+python-binary-memcached==0.24.7
+django-bmemcached==0.2.3
